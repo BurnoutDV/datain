@@ -1,0 +1,20 @@
+:root {
+    --blue: #1fbee5;
+    --pink: #e8739f;
+    --orange: #e35b24;
+    --yellow: #f8c612;
+    --grey: #e1e0de;
+    --green: #45af35;
+}
+
+body {
+  width: 900px;
+  font-size: 12px;
+  font-family: "Ubuntu", "Noto Sans", "Verdana";
+  margin: 2rem auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--orange);
+}
+
